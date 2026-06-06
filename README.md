@@ -236,7 +236,7 @@ Generate Answer
 ## Installation
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/ayanc5813-coder/Episodic-AI.git
 
 cd Episodic-AI
 
